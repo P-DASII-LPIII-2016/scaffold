@@ -11,3 +11,19 @@ La empresa **posee un solo puesto de caja** de la cual se realiza **una apertura
 De los egresos que pueden haber solo nos interesa saber el concepto y el monto del mismo. Es importante en todo momento saber **el saldo actual de caja (ingresos - egresos)**.
 El sistema **no necesita de roles**, pero indispensablemente se debe **registrar al usuario en el sistema** para que el mismo pueda loguearse mostrando en la pantalla principal sus datos.
 
+## Informes
+- Resumen de ventas por periodos: informe en el cual se presenta de manera tabular la fecha de la venta,  el numero de factura, el cliente y el monto en el periodo de tiempo seleccionado.
+###### Ejemplo
+
+                               **RESUMEN DE VENTAS**
+                  DESDE: 21/12/2016               HASTA:23/12/2016
+
+                  | Fecha        | Num. Factura | Cliente                       | Monto      | 
+                  |:------------:|:------------:|:-----------------------------:|:----------:|
+                  | 21/12/2016   | 12345        | Jorge García                  | 150.000    |
+                  | 21/12/2016   | 12346        | Juan Francisco da Vinci Perez | 1.500.000  |
+                  | 22/12/2016   | 12347        | Manuel Sanchez                | 850.000    |
+                  | 22/12/2016   | 12348        | Autorepuestos Parana          | 5.405.400  |
+                  | 23/12/2016   | 12349        | Autorepuestos Brasil          | 5.000.000  |
+                  | 23/12/2016   | 12350        | Algun Otro                    | 15.000.000 |
+                  | Total en Guaraníes                                          | 26.255.400 |
