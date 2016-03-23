@@ -36,13 +36,13 @@ El sistema **no necesita de roles**, pero indispensablemente se debe **registrar
 ##### Primera Entrega **17 de Abril**
 - Menu: es necesario que ya esten todos los elementos, aquellos items que ya tienen implementado ya tienene que apuntar
 - ABMs
-..* Proveedores
-..* Categorías
-..* Repuestos
-..* Marcas
-..* Clientes
-..* Modelos
-..* Usuarios
+  * Proveedores
+  * Categorías
+  * Repuestos
+  * Marcas
+  * Clientes
+  * Modelos
+  * Usuarios
 
 ##### Segunda Entrega **.. de Mayo**
 - Modelado de bd general
