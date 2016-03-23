@@ -57,3 +57,7 @@ El sistema **no necesita de roles**, pero indispensablemente se debe **registrar
 - Arqueo de caja
 - Reportes
 
+## Descargar El proyecto
+Esta sección se completará cuando estén todos los grupos listos.
+
+
