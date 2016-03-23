@@ -15,8 +15,8 @@ El sistema **no necesita de roles**, pero indispensablemente se debe **registrar
 - Resumen de ventas por periodos: informe en el cual se presenta de manera tabular la fecha de la venta,  el numero de factura, el cliente y el monto en el periodo de tiempo seleccionado.
 ###### Ejemplo
 
-                               **RESUMEN DE VENTAS**
-                  DESDE: 21/12/2016               HASTA:23/12/2016
+                                              **RESUMEN DE VENTAS**
+                                 DESDE: 21/12/2016               HASTA:23/12/2016
 
                   | Fecha        | Num. Factura | Cliente                       | Monto      | 
                   |:------------:|:------------:|:-----------------------------:|:----------:|
@@ -27,3 +27,33 @@ El sistema **no necesita de roles**, pero indispensablemente se debe **registrar
                   | 23/12/2016   | 12349        | Autorepuestos Brasil          | 5.000.000  |
                   | 23/12/2016   | 12350        | Algun Otro                    | 15.000.000 |
                   | Total en Guaraníes                                          | 26.255.400 |
+
+- Listado de movimientos de caja por día (similar al informe superior, detallando ingreso o egreso y el total de la caja).
+- Resumen de cajas por periodos, indicando la fecha y el saldo con el que se cerró la caja ese día (presentando al final del informe la sumatoria de los saldos del periodo indicado).
+
+## Entregas
+
+##### Primera Entrega **17 de Abril**
+- Menu: es necesario que ya esten todos los elementos, aquellos items que ya tienen implementado ya tienene que apuntar
+- ABMs
+..* Proveedores
+..* Categorías
+..* Repuestos
+..* Marcas
+..* Clientes
+..* Modelos
+..* Usuarios
+
+##### Segunda Entrega **.. de Mayo**
+- Modelado de bd general
+- Login
+- Cheque
+- Factura
+- Presupuesto
+
+##### Tercera entrega **.. de Junio**
+- Caja
+- Movimientos de caja
+- Arqueo de caja
+- Reportes
+
